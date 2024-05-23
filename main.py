@@ -1,5 +1,5 @@
 name = "Ольга"
-print(name, type (name))
+print(name)
 age = 52
 print(age)
 new_age = 5
